@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.login-container {
+    display: flex;
+    max-width: 1440px;
+    min-width: 1440px;
+    margin: auto;
+}
+
+.left-side {
+    width: 50%;
+}
+
+.right-side {
+    width: 50%;
+}
+
+.dangNhap-label {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    max-width: 568px;
+    max-height: 56px;
+    width: 100%;
+
+}
+
+.social-login {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.social-login button {
+    width: 568px;
+    height: 64px;
+    border-radius: 40px;
+}
+
+
+.left-side {
+}
+
+.left-content {
+
+
+}
