@@ -71,11 +71,24 @@ input {
 
 }
 
-.breadcrumb {
-    display: flex;
+.breadcrumb span strong {
     height: 36px;
     width: 120px;
-
+    margin-left: 30px;
+    
 }
+
+.breadcrumb {
+     margin-top: 40px;
+}
+
+.login-wrapper {
+    height: 376px;
+    width: 568px;
+    margin-top: 60px;
+    margin-left: 76px;
+    
+}
+
 
 
